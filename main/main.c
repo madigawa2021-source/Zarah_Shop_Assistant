@@ -50,7 +50,7 @@ static const char *TAG = "zarah_v3";
 
 // ─── CONFIGURATION ────────────────────────────────────────────────────────────
 // API Keys
-#define GEMINI_API_KEY       "GEMINI API KEY"
+#define GEMINI_API_KEY       "GEMINI_API_KEY"
 #define GEMINI_HOST      "generativelanguage.googleapis.com"
 #define GEMINI_PORT      443
 
